@@ -1,0 +1,29 @@
+h1 {
+    color: rgb(47, 47, 180) ;
+    text-align: center;
+}
+h2 {
+    color: rgb(0, 0, 0) ;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font: bold;
+}
+
+
+#thirdDiv {
+    background-color: rgb(87, 95, 172); 
+    padding: 50px; 
+    border: rgb(10, 7, 7); 
+    border-width: 10px; 
+    border-style:solid;
+    width:300; 
+    height:400; 
+}
+
+img {
+    width: 400;
+    align-self: center;
+}
