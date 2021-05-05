@@ -1,0 +1,6 @@
+
+Variables : son objetos con característcas.
+Strings: son cadenas de texto, las comillas "" hacen que se identifiquen como caracteres.
+Funciones (argumentos, return): es una parte en el cófigo que lleva a cabo una operación de fomra independiente al resto.
+Declaraciones if: es la que condiciona una acción.
+Valores booleanos (true, false): Verdadero o falso, de termina si el valor de una operación es valida o no. 
